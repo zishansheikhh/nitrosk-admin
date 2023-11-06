@@ -1,0 +1,17 @@
+.topbar-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    height: 80px;
+    background: #4E31AA;
+}
+.topbar-wrapper ul {
+    list-style: none;
+    display: flex;
+}
+.topbar-wrapper ul li {
+    color: #fff;
+    margin-right: 20px;
+    font-size: 20px;
+}
